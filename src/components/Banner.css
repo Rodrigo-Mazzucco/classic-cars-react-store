@@ -1,0 +1,27 @@
+.banner {
+  background: #F4F1EA;
+  color: var(--bege-fusca);
+  padding: 60px 20px;
+}
+
+.banner-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.banner h2 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.banner p {
+  margin-bottom: 20px;
+  color: #ddd;
+}
+
+.banner img {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 10px;
+}

@@ -1,0 +1,19 @@
+.list {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  list-style: none;
+  background-color: var(--azul-opala);
+  padding: 15px;
+}
+
+.item a {
+  color: var(--bege-fusca);
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.item a:hover {
+  color: var(--amarelo-puma);
+}

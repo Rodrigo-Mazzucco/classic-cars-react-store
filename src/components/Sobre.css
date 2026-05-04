@@ -1,0 +1,9 @@
+.sobre {
+  text-align: center;
+  padding: 30px;
+}
+
+.sobre p {
+  max-width: 600px;
+  margin: 0 auto;
+}

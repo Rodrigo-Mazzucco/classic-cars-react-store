@@ -1,0 +1,64 @@
+.card {
+  background: var(--bege-fusca);
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 15px;
+  width: 260px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card img {
+  width: 100%;
+  max-width: 220px;
+}
+
+.card h2 {
+  margin: 10px 0;
+  color: var(--azul-opala);
+}
+
+.card p {
+  font-size: 14px;
+  margin: 5px 0;
+}
+
+/* PREÇO */
+.card p:last-of-type {
+  font-weight: bold;
+  color: var(--verde-musgo);
+}
+
+/* BOTÃO */
+.card button {
+  margin-top: 10px;
+  padding: 10px;
+  border: none;
+  background: var(--amarelo-puma);
+  color: var(--azul-opala);
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.card button:hover {
+  background: #c89212;
+}
+
+.preco {
+  font-weight: bold;
+  color: #385A46;
+  margin-top: 8px;
+}
+.mensagem {
+  margin-top: 10px;
+  color: #385A46;
+  font-size: 14px;
+  font-style: italic;
+}
