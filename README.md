@@ -88,7 +88,6 @@ src/
 
 > "Isso que é carro de verdade!"
 
-* Imagem ilustrativa
 
 ---
 
