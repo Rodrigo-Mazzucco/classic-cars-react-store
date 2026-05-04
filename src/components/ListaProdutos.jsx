@@ -6,7 +6,7 @@ import OpalaSS from "../assets/images/ChevroletOpalaSS1970.png";
 import Maverick from "../assets/images/FordMaverick.png";
 import Puma from "../assets/images/PumaGTS.png";
 import GolGTI from "../assets/images/GolGTI.png";
-import FuscaBizorrão from "../assets/images/FuscaBizorrão.png";
+import FuscaBizorrao from "../assets/images/fusca-bizorrao.png";
 
 function ListaProdutos() {
   const carros = [
@@ -59,7 +59,7 @@ function ListaProdutos() {
       preco: 70000,
     },
     {
-      imagem: FuscaBizorrão,
+      imagem: FuscaBizorrao,
       marca: "Volkswagen",
       modelo: "Fusca",
       ano: 1974,
